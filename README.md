@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola, I'm Abhishek! 👋
 
-<!--
-**iamabhishek229313/iamabhishek229313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Flutter.
+- 🌱 I’m currently solving competitive prgramming problems.
+- 👯 I’m looking to collaborate on freelacing works for App Development.
+- 🤔 I’m looking for help with project documentation.
+- 💬 Ask me about Flutter or any tech related stuff.
+- 📫 How to reach me: [LinkedIn - @Abhishek](https://www.linkedin.com/in/abhishek-kumar-42437119b/)
+- 😄 Pronouns: He/His
+- ⚡ Fact: I prefer Tea over Coffee.
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=iamabhishek229313&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
