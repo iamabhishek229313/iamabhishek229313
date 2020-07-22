@@ -28,9 +28,9 @@
 <br/>
 
 
-[![Twitter: iamabhishek_77](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/iamabhishek_77)
-[![Linkedin: Abhishek](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar-42437119b/)](https://www.linkedin.com/in/abhishek-kumar-42437119b/)
-[![GitHub iamabhishek_77](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![Twitter: iamabhishek_77](https://img.shields.io/twitter/follow/iamabhishek_77?style=social)](https://twitter.com/iamabhishek_77)
+[![Linkedin: Abhishek](https://img.shields.io/badge/-iamabhishek_77-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar-42437119b/)](https://www.linkedin.com/in/abhishek-kumar-42437119b/)
+[![GitHub iamabhishek_77](https://img.shields.io/github/followers/iamabhishek229313?label=follow&style=social)](https://github.com/iamabhishek229313)
 
 
 **Languages and Tools:**  
