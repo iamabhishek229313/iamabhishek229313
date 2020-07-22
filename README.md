@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fact: I prefer Tea over Coffee.
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamabhishek229313&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
 
 <a href="https://twitter.com/iamabhishek_77">
   <img align="left" alt="Abhishek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -26,6 +26,9 @@
 
 <br/>
 <br/>
+<a href="https://github.com/iamabhishek229313">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamabhishek229313&show_icons=true&theme=dracula&line_height=27" alt="Abhishek's github stats"/>
+</a>
 
 
 [![Twitter: iamabhishek_77](https://img.shields.io/twitter/follow/iamabhishek_77?style=social)](https://twitter.com/iamabhishek_77)
@@ -40,15 +43,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 
-<a href="https://github.com/iamabhishek229313">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhishek229313&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/iamabhishek229313">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamabhishek229313&show_icons=true&theme=dracula&line_height=27" alt="Abhishek's github stats"/>
-</a>
+
 <a href="https://github.com/iamabhishek229313/tinder_clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamabhishek229313&repo=tinder_clone&theme=dark" />
-
 </a>
 <a href="https://github.com/iamabhishek229313/Flute-Music-Player">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamabhishek229313&repo=Flute-Music-Player&theme=dark" />
