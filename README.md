@@ -1,6 +1,5 @@
 ### Hola, I'm Abhishek! 👋
 
-- 🔭 I’m currently working on [Flutter](https://flutter.dev).
 - 🌱 I’m currently solving competitive prgramming problems.
 - 👯 I’m looking to collaborate on freelancing works for App Development.
 - 🤔 I’m looking for help with project documentation.
