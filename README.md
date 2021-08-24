@@ -1,13 +1,10 @@
-### Hola, I'm Abhishek! 👋
+### Hey, I'm Abhishek! 👋
 
-- 🌱 I’m currently solving competitive prgramming problems.
-- 👯 I’m looking to collaborate on freelancing works for App Development.
-- 🤔 I’m looking for help with project documentation.
-- 💬 Ask me about [Flutter](https://flutter.dev) or any tech related stuff.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-42437119b/)
-- 😄 Pronouns: He/His/Him
-- ⚡ Fact: I prefer Tea over Coffee.
-
+- I’m currently solving competitive prgramming problems.
+- I’m looking to collaborate on freelancing works for App Development.
+- An Open Source Contributor.
+- Ask me about [Flutter](https://flutter.dev) or any tech related stuff.
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-42437119b/)
 
 
 <a href="https://twitter.com/iamabhishek_77">
@@ -26,7 +23,7 @@
 <br/>
 <br/>
 <a href="https://github.com/iamabhishek229313">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamabhishek229313&show_icons=true&theme=dracula&line_height=27" alt="Abhishek's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamabhishek229313&show_icons=true&theme=light&line_height=27" alt="Abhishek's github stats"/>
 </a>
 
 
@@ -44,10 +41,10 @@
 
 
 <a href="https://github.com/iamabhishek229313/tinder_clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamabhishek229313&repo=tinder_clone&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamabhishek229313&repo=tinder_clone&theme=light" />
 </a>
 <a href="https://github.com/iamabhishek229313/Flute-Music-Player">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamabhishek229313&repo=Flute-Music-Player&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamabhishek229313&repo=Flute-Music-Player&theme=light" />
 </a>
 
 <div align="center">
